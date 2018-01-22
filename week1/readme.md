@@ -1,16 +1,11 @@
-###Week 1: Standing Up a Server
+###Week 1: HTML Elements and Basic CSS
 
 -----
 
-The goal of the exercises this week is to stand up an http server on Amazon Web Services [AWS]. An http server is a computer (real or virtual) that exists for the simple purpose of handling requests over the http protocol from web browsers and other access points.
+Let's begin *Introduction to Digital Media* by learning about the languages that power the open web — HTML structure and CSS styling — in the [Sublime](http://www.sublimetext.com) text editor.
 
-When web browsers type in a domain name, DNS services convert that domain name into an IP address, and the computer's request is routed to the server associated with that address. Depending on the content and settings on the server, the server then performs actions and returns results to the requesting machine. 
-
-To get a server up and running, we need to complete several steps.
-
-- [Get a machine running on AWS and install an OS](server.md)
-- [Allocate an address to the server](assignip.md)
-- [Prepare an access file](identityfile.md)
-- [Connect to the machine to edit its settings](serveraccess.md)
-- [Update the server and install software](lampinstall.md)
-- [Add files to server](addpage.md)
+- [HTML and HTTP](html.md)
+- [Block Level Elements](block.md)
+- [Inline Elements](inline.md)
+- [Inline Styling with CSS](inline-css.md)
+- [Spans and Divs](span-div.md)

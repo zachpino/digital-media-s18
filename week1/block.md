@@ -1,12 +1,12 @@
-###Week 2: Block Elements
+###Week 1: Block Elements
 
 -----
 
-Inside of [Sublime Text](sublime.md), press `command/control + shift + p` to open the command palette. There, type in `Browse Server`, select it, and then select your previously created SFTP configuration file. You should see the contents of your `/var/www/html` directory.
+Inside of [Sublime Text](http://www.sublimetext.com), save a new file `index.html` into an empty folder on your desktop called `week1`.
 
-Create a new file called `index.html`. This is the file that browsers load when a website address is visited.
+The name is important. `index.html` is the file that all browsers attempt to load when a website address is visited.
 
-Visit your elastic IP address in a browser, and reload the page after each following step to see the results of you code visualized.
+Open this file in a web browser, and reload the page after each following step to see the results of you code visualized.
 
 Rather than just typing text into this file as we have done previously, let's begin writing specially formatted HTML code for in-browser rendering.
 
