@@ -4,7 +4,7 @@
 
 In addition to [block-level elements](block.md), which take up 100% of the horizontal space on the page, there also exists elements which can sit next to one another. These are called *inline elements*. We have already used one: the anchor `<a>` tag.
 
-#####`<em>` Emphasis Element
+##### `<em>` Emphasis Element
 
 ```
 <html>
@@ -24,7 +24,7 @@ This is <em>emphatic text</em>.
 <hr />
 
 
-#####`<strong>` Strong Element
+##### `<strong>` Strong Element
 
 ```
 <html>
@@ -44,7 +44,7 @@ This is <strong>strong text</strong>.
 <hr />
 
 
-#####`<s>` Strike-Through Element
+##### `<s>` Strike-Through Element
 
 ```
 <html>
