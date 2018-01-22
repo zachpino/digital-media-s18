@@ -14,6 +14,8 @@ Let's construct a link back inside of `secondpage.html`.
 
 `echo '<a href="index.html">Go Back Home</a>' > secondpage.html`
 
-The two pages now link back and forth to one another.
+The two pages now link back and forth to one another. Links are fundamental to the [open web](https://en.wikipedia.org/wiki/Open_Web) and [search engine rankings](https://en.wikipedia.org/wiki/Search_engine_indexing). Sprinkle them everywhere! 
+
+Let's add some visual flair to these boring pages with some [images](image.md).
 
 
