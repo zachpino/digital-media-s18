@@ -1,4 +1,4 @@
-###Week 2: Inline Styling
+### Week 1: Inline Styling
 
 -----
 
