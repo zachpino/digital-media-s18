@@ -49,3 +49,5 @@ filter: contrast(150%);
 filter: hue-rotate(90deg);
 }
 ```
+
+That's it for [today](readme.md)!

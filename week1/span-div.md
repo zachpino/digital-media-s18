@@ -133,3 +133,5 @@ A very similar concept is `id`s. Unlike classnames, which can be reused, `id`s s
 ```
 
 To assign an `id`, use the tag attribute `id=""` and define the styling in the `<head>` of the document with a `#` character.
+
+With all this structure out of the way, let's do what web browsers do best and [link](link.md) some content.
