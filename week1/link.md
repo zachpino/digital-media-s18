@@ -16,6 +16,4 @@ Let's construct a link back inside of `secondpage.html`.
 
 The two pages now link back and forth to one another.
 
------
 
-At this stage, we've setup a server, connected it to the internet, and built out some content. Now, [practice and take some next steps](homework.md).

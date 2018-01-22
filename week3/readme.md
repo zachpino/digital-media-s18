@@ -1,12 +1,14 @@
-###CSS Positioning
+### Responsive Design
 
------
+---
 
-Now that block and inline elements have been introduced, along with CSS properties, classes, and IDs, we can work on positioning.
+The massive growth of mobile device usage has required web designers and developers to take into account the highly divergent contexts within which their sites are now experienced.
 
-- [Simple Element Positioning](single.md)
-- [Nested Positioning](nested.md)
-- [CSS Reset](reset.md)
-- [Float Positioning](float.md)
-- [Box Model](boxmodel.md)
-- [Simple Grid System](grid.md)
+- [Tweaks](tweaks.md)
+- [Breakpoints](breakpoints.md)
+- [Mobile](mobile.md)
+- [Tablet](tablet.md)
+- [Laptop](laptop.md)
+- [Complete Grid System](complete.md)
+- [Uploading Images](image.md)
+- [Next Steps](nextsteps.md)

@@ -1,14 +1,13 @@
-### Responsive Design
+###Programmatic Interactions
 
----
+Let's import a Javascript library, learn the basics of how to add scripts to a page, and design some interactions.
 
-The massive growth of mobile device usage has required web designers and developers to take into account the highly divergent contexts within which their sites are now experienced.
-
-- [Tweaks](tweaks.md)
-- [Breakpoints](breakpoints.md)
-- [Mobile](mobile.md)
-- [Tablet](tablet.md)
-- [Laptop](laptop.md)
-- [Complete Grid System](complete.md)
-- [Uploading Images](image.md)
-- [Next Steps](nextsteps.md)
+- [Page Structure](structure.md)
+- [Included Files](includes.md)
+- [Using Video in HTML](video.md)
+- [Diagrams from Illustrator](svg.md)
+- [Webfonts and Emoji](fonts.md)
+- [Import Jquery](jquery.md)
+- [Clicks, Add and Remove Elements](clicks.md)
+- [Hovering](hover.md)
+- [Animating CSS Properties](animate.md)

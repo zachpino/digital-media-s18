@@ -9,3 +9,4 @@ Let's begin *Introduction to Digital Media* by learning about the languages that
 - [Inline Elements](inline.md)
 - [Inline Styling with CSS](inline-css.md)
 - [Spans and Divs](span-div.md)
+- [Links](link.md)
