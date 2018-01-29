@@ -6,7 +6,7 @@ Please create a web page on one of the following topics, compressing as much of 
 - astrolabes
 - jacquard loom
 - ada lovelace
--osborne 1
+- osborne 1
 - ENIAC
 - nintendo gameboy
 - nintendo entertainment system
