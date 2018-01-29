@@ -14,3 +14,7 @@ Now that block and inline elements have been introduced, along with CSS properti
 ---
 
 - [Or Skip That and Just Do This!](https://css-tricks.com/snippets/css/complete-guide-grid/)
+
+-----
+
+- [Quickfire Exercise](quickfire.md)
