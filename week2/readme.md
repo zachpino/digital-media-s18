@@ -1,4 +1,4 @@
-###CSS Positioning
+### CSS Positioning
 
 -----
 
@@ -10,3 +10,7 @@ Now that block and inline elements have been introduced, along with CSS properti
 - [Float Positioning](float.md)
 - [Box Model](boxmodel.md)
 - [Simple Grid System](grid.md)
+
+---
+
+- [Or Skip That and Just Do This!](https://css-tricks.com/snippets/css/complete-guide-grid/)
