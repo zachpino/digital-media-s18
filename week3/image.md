@@ -73,4 +73,4 @@ body {
 ```
 
 
-[Next steps and homework](nextsteps.md)
+We can now advance to more formal layout systems, but let's begin with [resetting default css styles](reset.md).

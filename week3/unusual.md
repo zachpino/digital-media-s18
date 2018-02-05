@@ -100,6 +100,5 @@ div.sticky {
 </html>
 ```
 
-Now, let's move on to 
-
+Now, let's move on to adding rich media like [images and videos](image.md).
 
