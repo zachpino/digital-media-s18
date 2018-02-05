@@ -4,3 +4,4 @@ This site will serve as the primary course reference for the Institute of Design
 
 - [Week 1](week1/readme.md)
 - [Week 2](week2/readme.md)
+- [Week 3](week3/readme.md)
