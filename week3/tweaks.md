@@ -1,8 +1,8 @@
-###Small Improvements
+### Small Improvements
 
 ---
 
-The 12 column grid system we have built out works well, but there are some small tweaks we can make to handle our content more seamlessly.
+The [12 column grid system](grid.md) we have built out works well, but there are some small tweaks we can make to handle our content more seamlessly.
 
 Returning to our simple gridsystem example, with the CSS compressed a bit. Make sure you have a `reset.css` in the same folder as this file.
 
@@ -299,12 +299,9 @@ Note the few problems we can identify. Since the `col` divs have a set `height` 
             margin-right:.5%;
             margin-top:.5%;
             margin-bottom:.5%;
-            overflow:scroll;
         }
 ```
 
 Two changes to note. `min-height` rather than `height` allows our divs to still take up vertical space on the page even though they have no content. And, if there is long content, our divs will swell vertically to contain it like normal html elements. 
-
-But we still have words that expand horizontally outsider their bounds. Of course, this could be solved by using `col two`, but we can also use the `overflow` property to either hide any amount of horizontally overflowing text with `overflow:hidden;` or, usually better, make it scrollable with `overflow:scroll;`.
 
 With these tweaks in place, let's advance to [adding our first css breakpoint](breakpoints.md).

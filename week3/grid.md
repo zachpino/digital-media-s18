@@ -1,4 +1,4 @@
-###Simple Grid System
+### Simple Grid System
 
 -----
 
@@ -197,3 +197,5 @@ And here is the grid!
 
 </html>
 ```
+
+This can be further [tweaked and made responsive])(tweaks.md).
