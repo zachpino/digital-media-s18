@@ -198,4 +198,4 @@ And here is the grid!
 </html>
 ```
 
-This can be further [tweaked and made responsive])(tweaks.md).
+This can be further [tweaked and made responsive](tweaks.md).

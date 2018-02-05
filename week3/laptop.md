@@ -31,4 +31,4 @@ This covers all classes of devices with a general css breakpoint ruleset. Howeve
 
 You can view the [complete html document](complete.md).
 
-Now, as a last step, let's leave text behind and [add some images](image.md) to our nascent website.
+Now, as a last step, let's create some [real websites](quickfire.md) with our own work.
