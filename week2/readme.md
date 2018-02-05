@@ -9,7 +9,6 @@ Now that block and inline elements have been introduced, along with CSS properti
 - [CSS Reset](reset.md)
 - [Float Positioning](float.md)
 - [Box Model](boxmodel.md)
-- [Simple Grid System](grid.md)
 
 ---
 
