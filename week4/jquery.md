@@ -21,4 +21,6 @@ You don't need JQuery, it just makes lots of things simpler and more convenient.
 - [Paper.js](http://paperjs.org) and [Raphael](http://dmitrybaranovskiy.github.io/raphael/) for Diagramming
 - [MooTools](https://mootools.net) for Complex Interactions
 
+-----
+
 Now, let's deploy JQuery to find out what a user [clicks](clicks.md) on.
