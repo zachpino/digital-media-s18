@@ -1,17 +1,27 @@
-### Showing Video Content
+### Homework for 2/19/18
 
 ---
 
-Showing videos on a website is very similar to showing images. We use a special tag, set some attributes, and make sure the file is in the right place on our server!
+Use the code from this week to create a simple webpage with several buttons (defined below) that cause a single or many empty `<div>`s to exhibit the following select emotions/reactions/behaviors. Explore all the CSS properties you can animate -- not only motion but also color, size, borders, roundness, 
 
-```css
-<video autoplay controls muted class="hero-vid" width="100%" src="assets/aquarium.mp4">
-```
+Each animation should have its own labeled button, and each animation should be meaningfully unique. Watch yourself showing these emotions in the mirror to gain some ideas if you're stuck.
 
-This video, sourced form the amazing [Mazwai](http://mazwai.com) -- a sort [Unsplash](http://www.unsplash.com) for video -- is in the mp4 format which is fairly cross-compatible across modern browsers.
+- Joy
+- Sadness
+- Frustration
+- Approval
+- Indecision
+- Disapproval
+- Surprise
+- Victory
+- Defeat
+- Boredom / Waiting
+- Consideration / Processing Info
+- Sneaking 
+- Rushing
+- Flirting
+- 3 More: Your Choice 
 
-The `<video>` tag takes a `src` attribute, pointing it to an individual video file. It can be assigned width and/or height to specify non-native playback size (here set to 100% of its parent, a `row` div).
+-----
 
-Most importantly, though, are some useful attributes that don't take values. Namely, `autoplay`, `muted`, `controls` which respectively determine whether or not the video starts playing on page load, has sound, and show playback controls. Try your video with and without those attributes!
-
-We can now bring in [SVG content](svg.md) from Illustrator to complete the content on our page!
+Zip up and submit to Blackboard.

@@ -1,31 +1,21 @@
 ### Hovering
 
+---
+
 [Clicks](clicks.md) were easy. Let's do some hovering too!
 
 ```js
-    $("#system-ul").hover(function(){
-    	$("#more-info").text("Part 1 of my system")
+    //look for something with an id of 'heroImage'. When it is hovered over...
+    $("#heroImage").hover(function(){
+        //look for something with an ID of 'moreInfo' and change its internal text
+    	$("#moreInfo").text("Hello World!")
     },
+    //on stop hovering
     function(){
-		$("#more-info").text("The major parts of the platform...")
-	}	
+		$("#moreInfo").text("...")
+	}
     );
-
-    $("#system-um").hover(function(){
-    	$("#more-info").text("Part 2 of my system")
-    },
-    function(){
-		$("#more-info").text("The major parts of the platform...")
-	}	
-    );
-
-    $("#system-ur").hover(function(){
-    	$("#more-info").text("Part 3 of my system")
-    },
-    function(){
-		$("#more-info").text("The major parts of the platform...")
-}	
-    );
+    
 ```
 
-And finally, some generalized [animation](animate.md)!
+And finally, some generalized [animation](animate.md).

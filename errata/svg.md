@@ -1,12 +1,9 @@
 ### Adding SVG
-
 ---
 
-Digrammatic content produced from Adobe Illustrator can be directly included in our html documents. 
+With our [video](video.md) in place, we can use Scalable Vector Graphics, produced from Adobe Illustrator, directly in our html documents!
 
-Within Illustrator: File->Save As->SVG
-
-Opening up the resulting svg file in Sublime should reveal something like this, which can be pasted into an HTML document or further manipulated *as text*. 
+File->Save As->SVG
 
 ```
 	<svg style="width:100%" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" viewBox="0 0 1600 900" enable-background="new 0 0 1600 900" xml:space="preserve">
@@ -18,6 +15,4 @@ Opening up the resulting svg file in Sublime should reveal something like this, 
 	</svg>
 ```
 
------
-
-Let's leave graphics behind and advance into [interactivity with javascript](js_basics.md)!
+You can easily add classnames and ids to your SVG elements to make them addressable with css and [javascript](jquery.md)!
