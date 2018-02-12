@@ -1,4 +1,4 @@
-###Programmatic Interactions
+### Programmatic Interactions
 
 Let's import a Javascript library, learn the basics of how to add scripts to a page, and design some interactions.
 

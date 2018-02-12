@@ -1,4 +1,4 @@
-###Adding SVG
+### Adding SVG
 ---
 
 With our [video](video.md) in place, we can use Scalable Vector Graphics, produced from Adobe Illustrator, directly in our html documents!

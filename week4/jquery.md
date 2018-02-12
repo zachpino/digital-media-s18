@@ -1,4 +1,4 @@
-###JQuery
+### JQuery
 
 ---
 
@@ -8,7 +8,7 @@ Our page looks good! We have [diagrams](svg.md) and [videos](video.md) on the pa
 
 Let's bring JQuery into our website. At the head of your page, include the following
 
-```
+```js
 <script src="https://code.jquery.com/jquery-latest.js"></script>
 ```
 

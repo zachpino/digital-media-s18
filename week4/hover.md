@@ -2,7 +2,7 @@
 
 [Clicks](clicks.md) were easy. Let's do some hovering too!
 
-```
+```js
     $("#system-ul").hover(function(){
     	$("#more-info").text("Part 1 of my system")
     },

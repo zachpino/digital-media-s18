@@ -1,4 +1,4 @@
-###Base Page Structure
+### Base Page Structure
 
 ---
 
@@ -15,7 +15,7 @@ To produce this, our grid system has been implemented as follows.
 
 Note that the grid system css rules have been linked as an external file, just like the css reset rules. A final css file will be included, `style.css`, which will contain general typography and layout rules for the page.
 
-```
+```html
 <html>
 <head>
 	<title>Digital Media Project</title>
@@ -104,4 +104,5 @@ Note that the grid system css rules have been linked as an external file, just l
 </body>
 </html>
   ```
+
 Now, let's make sure we satisfy the [appropriate dependencies](includes.md).

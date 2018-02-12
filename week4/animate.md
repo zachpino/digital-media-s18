@@ -1,8 +1,8 @@
-###Animating
+### Animating
 
 And finally, arbitary CSS animations.
 
-```
+```js
     $(".storyboard-image").click(function(){
         var image = $(this).attr("src");
            
