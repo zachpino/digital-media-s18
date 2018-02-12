@@ -22,6 +22,12 @@ $(document).ready(function(){
     	//remove a turtle emoji object
         $(".em-turtle").last().remove();
     });
+
+    //look for something with an ID of 'turtle', and when it is clicked on... 
+    $("#heroImage").click(function(){
+      //switch image source attribute
+      $("#heroImage").attr('src','image2.png')
+    });
     
 });
 
@@ -30,7 +36,7 @@ $(document).ready(function(){
 
 JQuery always follows this convention. We search for something on the page `$(element, id, or class name)`, and assign a *handler* to it. In this case, we're telling these identified elements to listen for a `click` event. There are [many other events](https://www.w3schools.com/jquery/jquery_events.asp) that we can respond to as well!  
 
-When a click is detected on that element, the associated code, wrapped in a `function` is executed. Here, we are simply adding or removing elements.
+When a click is detected on that element, the associated code, wrapped in a `function` is executed. Here, we are simply adding or removing elements in the first two examples. The third example changes the `src` attribute of the selected image, switching the image to a different file.
 
 -----
 
