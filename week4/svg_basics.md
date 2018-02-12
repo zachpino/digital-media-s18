@@ -110,4 +110,4 @@ A more in-depth treatment is [available from Mozilla](https://developer.mozilla.
 
 -----
 
-We can draw SVG directly to our browser, but we also can [import diagrammatic content from Adobe Illustrator](svg-import.md).
+We can draw SVG directly to our browser, but we also can [import diagrammatic content from Adobe Illustrator](svg.md).
