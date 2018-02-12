@@ -2,7 +2,9 @@
 
 ---
 
-Use the code from this week to create a simple webpage with several buttons (defined below) that cause a single or many empty `<div>`s to exhibit the following select emotions/reactions/behaviors. Explore all the CSS properties you can animate -- not only motion but also color, size, borders, roundness, 
+Use the code from this week to create a simple webpage with several buttons (defined below) that cause a single or many empty `<div>`s to exhibit the following select emotions/reactions/behaviors. Explore all the CSS properties you can animate -- not only motion but also color, size, borders, roundness...
+
+https://www.w3schools.com/cssref/default.asp
 
 Each animation should have its own labeled button, and each animation should be meaningfully unique. Watch yourself showing these emotions in the mirror to gain some ideas if you're stuck.
 
