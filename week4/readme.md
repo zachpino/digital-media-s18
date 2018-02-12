@@ -17,5 +17,6 @@ Let's import a Javascript library, learn the basics of how to add scripts to a p
 
 ----- 
 
+- [Inspiration](inspiration.md)
 - [Homework](homework.md)
 
