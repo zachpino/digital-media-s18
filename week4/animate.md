@@ -24,7 +24,7 @@ Here, the `left` property of an element is incremented over 1.5 seconds (all tim
     $("#animate").click(function(){
       
         //look for an item called 'boxy' on the page and animate it moving 
-        $("#boxy").animate({"left":"+=100px"}, 1500, "easeOutBounce" );
+        $("#boxy").animate({"margin-left":"+=100px"}, 1500, "easeOutBounce" );
    
     });
 
@@ -39,7 +39,7 @@ Many properties can be simultaneously animated...
         $("#boxy").animate(
         	{
         		"opacity":.6,
-        		"left": "+=50px",
+        		"margin-left": "+=50px",
         		"height": "300px",
         		"border": "3px solid green",
         		"background-color" : "#f0f" 
