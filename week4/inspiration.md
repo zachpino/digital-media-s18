@@ -61,6 +61,7 @@ CT
 - https://en.wikipedia.org/wiki/Computational_theory_of_mind
 - http://www.decisionproblem.com/paperclips/index2.html
 - http://thatgamecompany.com/journey/
+- https://www.nature.com/news/machine-ethics-the-robot-s-dilemma-1.17881
 
 DI
 - http://modiface.com
