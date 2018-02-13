@@ -12,7 +12,7 @@ Pull down some videos from the amazing [Mazwai](http://mazwai.com) -- a sort [Un
 
 The `<video>` tag takes a `src` attribute, pointing it to an individual video file. It can be assigned width and/or height to specify non-native playback size (here set to 100% of its parent).
 
-Most importantly, though, are some useful attributes that don't take values. Namely, `autoplay`, `muted`, `controls` which respectively determine whether or not the video starts playing on page load, has sound, and show playback controls. Try your video with and without those attributes!
+Most importantly, though, are some useful attributes that don't take values. Namely, `autoplay`, `muted`, `controls` which respectively determine whether or not the video starts playing on page load, has sound by default and show playback controls. Try your video with and without those attributes!
 
 -----
 

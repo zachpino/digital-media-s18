@@ -30,4 +30,4 @@ And then use emoji in your page like so. Use [this page](https://afeld.github.io
 
 ---
 
-Now, let's add some [graphic elements](svg_basics.md) to the page.
+Now, let's finally [add some interactivity](js_basics.md) to the page.
