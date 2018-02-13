@@ -8,6 +8,8 @@ Note that, to animate any changes to the `border` of an element, that element *m
 
 Each animation should have its own labeled button (these can all be on one HTML page, though you can also spread them out if you like to keep the code neater), and each animation should be meaningfully unique. Watch yourself showing these emotions in the mirror to gain some ideas if you're stuck, or explore how mobile apps try to communicate similar personality in their UI elements.
 
+Bonus points if you add a webfont and add some typographic/layout style to the page! 
+
 - Joy
 - Sadness
 - Frustration
