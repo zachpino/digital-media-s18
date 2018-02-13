@@ -6,7 +6,7 @@ Use the code from this week to create a simple webpage with several buttons (def
 
 https://www.w3schools.com/cssref/default.asp
 
-Each animation should have its own labeled button, and each animation should be meaningfully unique. Watch yourself showing these emotions in the mirror to gain some ideas if you're stuck.
+Each animation should have its own labeled button, and each animation should be meaningfully unique. Watch yourself showing these emotions in the mirror to gain some ideas if you're stuck, or explore how mobile apps try to communicate similar personality in their UI elements.
 
 - Joy
 - Sadness
