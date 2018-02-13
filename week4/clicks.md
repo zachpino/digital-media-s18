@@ -19,7 +19,7 @@ $(document).ready(function(){
    	
    	//look for something with an ID of 'turtle', and when it is clicked on... 
     $("#turtle").click(function(){
-    	//remove a turtle emoji object
+    	//remove a child object
         $(".em-turtle").last().remove();
     });
 
@@ -40,4 +40,4 @@ When a click is detected on that element, the associated code, wrapped in a `fun
 
 -----
 
-Now, let's consider the user [hovering](hover.md) event.
+Now, let's learn how we can [trigger an animation with a click event](animate.md).
