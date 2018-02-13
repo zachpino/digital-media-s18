@@ -87,6 +87,22 @@ We also can sequence animation by duplicating the `.animate` *block* of code.
 
 ```
 
+And many elements can move simultaneously.
+
+```js
+	//look for something called id 'animate' and make it clickable
+    $("#animate").click(function(){
+      
+        //look for an item called 'boxy' on the page and animate it moving to the right
+        $("#boxy").animate({"margin-left":"300px"}, 1500, easeInBounce );
+	
+	//look for an item called 'boxy2' on the page and animate it moving to the right
+        $("#boxy2").animate({"margin-left":"300px"}, 1500, easeOutBounce );
+	
+    });
+
+```
+
 As a time-saving utility, JQuery offers the ability to use relative values in animation calls. We can use `+=` and `-=` to move an element on the page from where it currently is a certain amount. In other words, the motion is *relative to the current position rather than absolute to its parent*. This saves time, and also allows the animation button to be pressed many times for repeated animation.
 
 ```js
