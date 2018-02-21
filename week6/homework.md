@@ -1,8 +1,8 @@
-### Homework for 2/26
+### Homework for 3/5
 
 ---
 
-Begin constructing a container for your presentation content. 
+Constructing a container for your presentation content. 
 
 Things to include: 
 

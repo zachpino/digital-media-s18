@@ -1,4 +1,4 @@
-### Week 5: Animation Practice and SVG
+### Week 6: Animation Practice and SVG
 
 Let's do animation in response to other events, and learn how to import diagrammatic content from Adobe Illustrator.
 
