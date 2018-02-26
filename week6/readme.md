@@ -6,10 +6,16 @@ Let's do animation in response to other events, and learn how to import diagramm
 - [Animation Review](animate.md)
 - [Hover Event](hover.md)
 
+##### Scroll Event
+- [Handling Scroll Position](scroll.md)
+
 ##### SVG Stuff
 - [SVG Basics](svg_basics.md)
 - [Import Adobe Illustrator Content](svg.md)
 
+##### Simple Image Gallery
+ - [Image Gallery](gallery.md)
+ 
 ----- 
 
 - [Homework](homework.md)
