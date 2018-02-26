@@ -38,4 +38,4 @@ Hover events, like [all events](https://www.w3schools.com/jquery/jquery_events.a
 
 -----
 
-Let's add to our HTML drawing repertoire by diving a bit into [Scalable Vector Graphics](svg_basics.md).
+Let's cover another event, [scrolling](scroll.md).

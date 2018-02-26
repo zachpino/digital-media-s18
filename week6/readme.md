@@ -6,7 +6,7 @@ Let's do animation in response to other events, and learn how to import diagramm
 - [Animation Review](animate.md)
 - [Hover Event](hover.md)
 
-##### Scroll Event
+##### Scroll Animation
 - [Handling Scroll Position](scroll.md)
 
 ##### SVG Stuff

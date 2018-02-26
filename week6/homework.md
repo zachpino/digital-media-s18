@@ -17,18 +17,3 @@ Things to include:
 
 These can all be included on one page, or on multiple linked pages, depending on how you would like to present.
 
-Code like the following will be useful for handling your storyboard frames interactively.
-
-```
-	//when something with .storyboard-image class is clicked
-    $(".storyboard-image").click(function(){
-        //store the path to the image that was clicked
-        var image = $(this).attr("src");
-        //make the hero image invisible
-        $("#hero-image").animate({"opacity":0}, 1500, function(){
-        	//switch the hero image source path
-        	$("#hero-image").attr('src', image);});
-        //make the hero image visible again! 
-        $("#hero-image").animate({"opacity":1}, 1500 );
-    });
-```

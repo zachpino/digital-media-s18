@@ -20,4 +20,4 @@ Opening up the resulting svg file in Sublime should reveal something like this, 
 
 -----
 
-Let's leave graphics behind and practice with some [homework](homework.md).
+Let's leave graphics behind and develop a simple image thumbnail [gallery](gallery.md).
