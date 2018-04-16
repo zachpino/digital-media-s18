@@ -18,7 +18,7 @@ This week, let's produce a short, representative clip of our final video, to ens
 	- [Lynda Tutorial](https://www.lynda.com/After-Effects-tutorials/Motion-Graphic-Design-Composition/625941-2.html) Especially Sections 2 and 3
 
 - Custom Audio Content
-	- [Lynda Tutorial](https://www.lynda.com/Audition-tutorials/Sound-Design-Motion-Graphics/)
+	- [Lynda Tutorial](https://www.lynda.com/Audition-tutorials/Sound-Design-Motion-Graphics/175586-2.html)
 
 - Character Animator (Not recommended for most projects, but potentially useful for complex animation needs)
 	- [Lynda Tutorial](https://www.lynda.com/After-Effects-tutorials/After-Effects-Guru-Character-Animator/490763-2.html)
@@ -49,7 +49,7 @@ This week, let's produce a short, representative clip of our final video, to ens
 	- [Alternative Youtube Tutorial](https://www.youtube.com/watch?v=UqTU5sOCsxY)
 
 - Color Grading
-	- [Lynda Tutorial](https://www.lynda.com/After-Effects-tutorials/After-Effects-Guru-Color-Grading-Footage/) Section 1 and Section 2 Video 1
+	- [Lynda Tutorial](https://www.lynda.com/After-Effects-tutorials/After-Effects-Guru-Color-Grading-Footage/166363-2.html) Section 1 and Section 2 Video 1
 
 - Stock Video Sources
 	- [Mazwai](http://mazwai.com/#/)
