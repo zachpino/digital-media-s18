@@ -7,3 +7,4 @@ This site will serve as the primary course reference for the Institute of Design
 - [Week 3 · Responsive Layouts and Examples](week3/readme.md)
 - [Week 4 · Rich Media and Programmatic Interactions](week4/readme.md)
 - [Week 6 · SVG and Advanced Interactions](week6/readme.md)
+- [Week 11 · Video and Animation Tutorials](week11/readme.md)
