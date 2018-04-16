@@ -2,6 +2,7 @@
 
 This week, let's produce a short, representative clip of our final video, to ensure we understand what our final process will look like.
 
+-----
 
 ##### Vector Animation
 
@@ -23,7 +24,9 @@ This week, let's produce a short, representative clip of our final video, to ens
 	- [Lynda Tutorial](https://www.lynda.com/After-Effects-tutorials/After-Effects-Guru-Character-Animator/490763-2.html)
 
 - Inspiration
+	- [Vimeo Animation Curated Animation Channel](https://vimeo.com/channels/animation)
 
+-----
 
 ##### Video 
 
@@ -55,6 +58,7 @@ This week, let's produce a short, representative clip of our final video, to ens
 	- [AP Archive](http://www.aparchive.com)
 	- [Video Blocks -- Should we get a class login?](https://www.videoblocks.com)
 
+-----
 
 ##### Recording Voiceover / Audio
 
